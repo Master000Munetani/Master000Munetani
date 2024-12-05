@@ -1,3 +1,7 @@
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 *2024春*
 
 >来存毕设的时候才发现自己已经很久没来没放过东西了
