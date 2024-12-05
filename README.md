@@ -36,4 +36,4 @@
 **很遗憾以上问题在2021年暑假都没有得到解决**
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Master000Munetani)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Master000Munetani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
