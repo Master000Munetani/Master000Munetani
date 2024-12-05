@@ -1,6 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Master000Munetani&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+**what's new**
 
 *2024春*
 
@@ -36,3 +34,6 @@
 *暑假不搞C语言了，为了开学不挂科，决定搞C++🥺*
 
 **很遗憾以上问题在2021年暑假都没有得到解决**
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Master000Munetani)](https://github.com/anuraghazra/github-readme-stats)
