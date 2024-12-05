@@ -1,4 +1,4 @@
-## ようこそこちらへ、 ![Visitor Count](https://profile-counter.glitch.me/Master000Munetani/count.svg)　めの訪問者さん。:)
+## ようこそこちらへ、 ![Visitor Count](https://profile-counter.glitch.me/Master000Munetani/count.svg) 人目の訪問者さん。:)
 
 
 
