@@ -1,9 +1,9 @@
-## Hello, the No.![Visitor Count](https://profile-counter.glitch.me/Master000Munetani/count.svg) visitor !
+## ようこそこちらへ、 ![Visitor Count](https://profile-counter.glitch.me/Master000Munetani/count.svg)　めの訪問者さん。:)
 
 
 
 
-**what's new about me**
+**so,what's new**
 
 ---------------------------------------------
 *2024春*
